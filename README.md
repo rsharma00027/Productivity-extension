@@ -1,2 +1,2 @@
 # Productivity-extension
-Made by- PArth Asawa, Aryan Singh Yadav
+Made by- Parth Asawa, Aryan Singh Yadav
